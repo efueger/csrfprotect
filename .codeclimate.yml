@@ -7,5 +7,4 @@ ratings:
 
 exclude_paths:
 - .temp/
-- tests/
 - ext/
